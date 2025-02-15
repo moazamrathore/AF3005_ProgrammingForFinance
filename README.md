@@ -69,6 +69,16 @@ Smart-Financial-Management-System/ │── 📁 Notebooks/ # Jupyter Notebook 
 ➡ **Simulates** USD/PKR exchange rate fluctuations.  
 ➡ **Stops tracking** once the exchange rate **hits the target value**.  
 
+### 4️⃣ **Risk Assessment Tool**  
+➡ **Input:** Stock returns as a comma-separated list.  
+➡ **Output:** Classifies portfolio risk as **Low, Medium, or High**.  
+➡ **Note:** If a stock has **negative returns**, it is classified as **High Risk**.  
+
+### 5️⃣ **Loan Repayment Tracker**  
+➡ **Input:** Loan amount and monthly payment.  
+➡ **Output:** Simulates **monthly payments** until the loan is fully paid.  
+➡ **Bonus:** Displays the **remaining balance** after each payment.  
+
 ---
 
 ## 📄 License  
