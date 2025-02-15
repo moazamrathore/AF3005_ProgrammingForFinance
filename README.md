@@ -30,6 +30,11 @@ By working on this project, students will:
 
 ---
 
+## 📂 Repository Structure 
+Smart-Financial-Management-System/ │── 📁 Notebooks/ # Jupyter Notebook files │── 📁 Data/ # Sample financial datasets │── 📁 Scripts/ # Python scripts for financial computations │── 📄 Smart_Financial_Management_System.ipynb # Main Jupyter Notebook │── 📄 README.md # Project documentation │── 📄 requirements.txt # Dependencies │── 📄 .gitignore # Ignore unnecessary files
+
+---
+
 ## 🚀 Features Implemented  
 
 ### 🔹 **Loan Eligibility Checker**  
